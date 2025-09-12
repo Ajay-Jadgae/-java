@@ -20,7 +20,7 @@ class Mobile {
     public Mobile(String brand, int price, long storage) {
         this("Samsung", 15000, 64L, 6.5);
         System.out.println("This is 3-argument constructor");
-        System.out.println("Storage = " + storage + "GB");
+        System.out.println("Storage = " + storage );
     }
 
     public Mobile(String brand, int price, long storage, double screenSize) {
@@ -32,7 +32,7 @@ class Mobile {
     public Mobile(String brand, int price, long storage, double screenSize, float weight) {
         this("Samsung", 15000, 64L, 6.5, 180.5f, true);
         System.out.println("This is 5-argument constructor");
-        System.out.println("Weight = " + weight + "g");
+        System.out.println("Weight = " + weight);
     }
 
     public Mobile(String brand, int price, long storage, double screenSize, float weight, boolean is5G) {
