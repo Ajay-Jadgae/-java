@@ -9,9 +9,6 @@ mobile.display(charger);
 
 charger.dispiayCharger();
 
-
-
 }
-
 
 }
