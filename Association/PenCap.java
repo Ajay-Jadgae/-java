@@ -1,22 +1,21 @@
 class PenCap{
 	
-public String brand;
+	public String brand;
+	public int rating;
 
-public int rating;
+	public PenCap(String brand,int rating){
 
-public PenCap(String brand,int rating){
+		this.brand=brand;
+		this.rating=rating; 
 
-this.brand=brand;
-this.rating=rating; 
-
-}
-public void details(){
+	}
+	public void details(){
 		
-System.out.println(brand);
+		System.out.println(brand);
 
-System.out.println(rating);
+		System.out.println(rating);
 
-}
+	}
 }
 
 

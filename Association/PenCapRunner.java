@@ -1,18 +1,18 @@
 class PenCapRunner{
 
-public static void main (String [] args){
+	public static void main (String [] args){
 
 
-PenCap penCap=new PenCap("realme",100);
+		PenCap penCap=new PenCap("realme",100);
 
-Pen pens=new Pen(50,"writometer",penCap);
-
-
-pens. displayPen();
+		Pen pens=new Pen(50,"writometer",penCap);
 
 
-penCap.details();
+		pens. displayPen();
 
-}
+
+		penCap.details();
+
+	}
 
 }
