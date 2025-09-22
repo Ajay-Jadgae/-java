@@ -1,0 +1,12 @@
+class Engine{
+	
+	public int power;
+	
+	
+	public Engine(int power){
+		
+		this.power=power;
+		
+		
+	}
+}
