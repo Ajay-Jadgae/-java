@@ -1,0 +1,4 @@
+class PaintColors extends Colors {
+	
+	
+}

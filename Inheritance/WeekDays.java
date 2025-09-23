@@ -1,0 +1,3 @@
+class WeekDays extends Days {
+    
+}

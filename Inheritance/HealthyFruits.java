@@ -1,0 +1,3 @@
+class HealthyFruits extends Fruits {
+	
+}
