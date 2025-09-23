@@ -1,0 +1,4 @@
+class GameInfoRunner extends GameInfo {
+    
+    }
+}
