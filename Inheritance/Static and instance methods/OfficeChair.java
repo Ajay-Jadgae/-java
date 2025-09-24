@@ -1,0 +1,3 @@
+class OfficeChair extends Chair {
+    
+}

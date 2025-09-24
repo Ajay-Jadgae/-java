@@ -1,0 +1,3 @@
+class Nike extends Shoes {
+    
+}
