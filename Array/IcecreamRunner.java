@@ -14,8 +14,6 @@ class IcecreamRunner{
 		Icecream []colors={icecream1,icecream2,icecream3,icecream4,icecream5};
 
 		
-		
-		
 		icecreamInfo.icecreamTypes(colors);
 		
 		
